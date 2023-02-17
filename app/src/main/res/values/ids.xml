@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="marca" type="id">marca</item>
+    <item name="modelo" type="id">modelo</item>
+    <item name="anio" type="id">anio</item>
+    <item name="tipoaceite" type="id">tipoaceite</item>
+    <item name="btnagregar" type="id">btnagregar</item>
+    <item name="agregar" type="id">agregar</item>
+</resources>
